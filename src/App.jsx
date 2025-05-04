@@ -38,7 +38,7 @@ const App = () => {
           </a>
         </div>
        <div className="">
-        <h1 className=" text-amber-300 font-bold">No 3× 10× limit in casino unlimited winning 🎰</h1>
+        <h1 className=" text-amber-300 font-bold capitalize">No 3× 10× limit in casino unlimited winning 🎰</h1>
        </div>
         <footer className="w-full text-center text-xs sm:text-sm text-gray-400 mt-10 py-4 border-t border-gray-600 px-6">
           <p>18+ | Gamble Responsibly. This game involves financial risk and may be addictive.</p>
