@@ -1,6 +1,8 @@
 @import "tailwindcss";
 
-
+*{
+  font-weight: 800;
+}
 @keyframes pop {
   0%, 100% {
     transform: scale(1);
